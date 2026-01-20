@@ -3,7 +3,7 @@
 <h2>1,030개 레코드로 구성된 샘플 데이터셋</h2>
 
 <a href="https://brightdata.co.kr">
-    <img src="https://github.com/luminati-io/Owler-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-kr/Owler-Companies-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 이 **Owler Companies Dataset Sample**은 **1,030개 레코드**를 포함하며 **Bright Data API**를 사용하여 추출되었습니다.
